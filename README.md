@@ -5,7 +5,7 @@
 
 ---
 
-<img align="left" alt="Navodit's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Navodit1603&show_icons=true&hide_border=true" />
+<img src= "https://github-readme-stats.vercel.app/api?username=Navodit1603&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 
