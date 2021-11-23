@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+- 🎓 I am currently attending Del Norte as a Senior
 - 🔭 I’m currently working on AP CSA Project about education in stocks.
 - 🌱 I’m currently learning Java and Thymeleaf
 - 👯 I’m looking to collaborate on Video Game Developing
