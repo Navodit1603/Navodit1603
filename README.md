@@ -1,5 +1,5 @@
 ## Hi there 👋
-- I am Navodit Maheshwari and I am a second year student at UC Santa Cruz (Expected to graduate in June 2026). I have experience in Web Development, SQL Databases, Various DataStructures and Computer Architecture. I am currently interested and learning about **Machine Learning** and I am interested in collaborating in projects in that field.
+I am Navodit Maheshwari and I am a second year student at UC Santa Cruz (Expected to graduate in June 2026). I have experience in Web Development, SQL Databases, Various DataStructures and Computer Architecture. I am currently interested and learning about **Machine Learning** and I am interested in collaborating in projects in that field.
 
 ### Coding Languages
 - Python
