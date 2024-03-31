@@ -1,6 +1,5 @@
 ### Hi there 👋
-My name is Navodit Maheshwari and I am learning Computer Science in AP CSA. I am currently learning Java and Thyleaf with the applications of a database. I have taken AP CSP, so I have knoldege of using Python and Jinja. My future goal with computer science is to become a video game developer or an app developer.  
-
+I am Navodit Maheshwari and I am a second year student at UC Santa Cruz (Expected to graduate in June 2026). I have experience in Web Development, SQL Databases, Various DataStructures and Computer Architecture.
 ---
 - 🎓  I am currently attending Del Norte as a Senior
 - 🔭  I’m currently working on AP CSA Project about education in stocks.
