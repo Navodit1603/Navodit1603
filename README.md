@@ -24,7 +24,4 @@ I am Navodit Maheshwari and I am a second year student at UC Santa Cruz (Expecte
 - Email: [navoditmaheshwari@gmail.com](navoditmaheshwari@gmail.com)
 - Linkden: [linkedin.com/in/navodit-maheshwari/](https://www.linkedin.com/in/navodit-maheshwari/)
 
-
-<img src= "https://github-readme-stats.vercel.app/api?username=Navodit1603&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Navodit1603)](https://github.com/Navodit1603/github-readme-stats)
