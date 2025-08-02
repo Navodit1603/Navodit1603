@@ -1,15 +1,17 @@
 ## Hi there 👋
-I am Navodit Maheshwari and I am a second year student at UC Santa Cruz (Expected to graduate in June 2026), majoring in Computer Science B.S. I have experience in Web Development, SQL Databases, Various DataStructures and Computer Architecture. I am currently interested and learning about **Machine Learning** and I am interested in collaborating in projects in that field.
+My name is Navodit Maheshwari and I am starting a Master's Program in Natural Language Processing starting Fall 2025 with UC Santa Cruz at their Extention Campus. I recived my Bachelor's degree in Computer Science B.S from UC Santa Cruz as well. I am interested in Natural Language Processing, Machine Learning, Web development. I am passionate about learning new things and working on interesting projects. 
 
 ### Coding Languages
 - Python
 - C/C++
 - Java
 - HTML
-- JS
+- JS/TS
 - SQL
 
 ### Classes Taken
+- Natural Language Processing
+- Foundations of Programming Languages
 - Programming Abstractions: Python
 - Computer Systems and C Programming
 - Computer Systems and Assembly Language
@@ -21,6 +23,7 @@ I am Navodit Maheshwari and I am a second year student at UC Santa Cruz (Expecte
 - Probability Theory/Statistics  
 
 ### Contact Information
+- Website: [navodit1603.github.io/NavoditPortfolio/](https://navodit1603.github.io/NavoditPortfolio/)
 - Email: [navoditmaheshwari@gmail.com](navoditmaheshwari@gmail.com)
 - Linkden: [linkedin.com/in/navodit-maheshwari/](https://www.linkedin.com/in/navodit-maheshwari/)
 
