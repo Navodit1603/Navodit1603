@@ -1,7 +1,7 @@
 ## Hi there 👋
-My name is Navodit Maheshwari and I am completing a Master's Program in Natural Language Processing starting Fall 2025 with UC Santa Cruz at their Extention Campus. I recived my Bachelor's degree in Computer Science B.S from UC Santa Cruz as well. I am interested in Natural Language Processing, Machine Learning, Web development. I am passionate about learning new things and working on interesting projects that makes life easier for users, regardless of technical ability.
+My name is Navodit Maheshwari and I am completing a Master's Program in Natural Language Processing starting Fall 2025 with UC Santa Cruz at their Extention Campus. I recived my Bachelor's degree in Computer Science B.S from UC Santa Cruz as well. I am interested in Natural Language Processing, Machine Learning, Web development. I am passionate about learning new things and working on interesting projects that makes life easier for users, regardless of technical ability. I am always looking to work on new projects and would love to discuss new topics in the feild.
 
-### Coding Languages
+### Coding Languages 💻
 - Python
 - C/C++
 - Java
@@ -9,7 +9,7 @@ My name is Navodit Maheshwari and I am completing a Master's Program in Natural 
 - JS/TS
 - SQL
 
-### Classes Taken
+### Classes Taken 📓
 - Advanced Deep Learning
 - Conversational Agents
 - Natural Language Processing I/II/III
@@ -24,7 +24,7 @@ My name is Navodit Maheshwari and I am completing a Master's Program in Natural 
 - Linear Algebra
 - Probability Theory/Statistics  
 
-### Contact Information
+### Conect with Me! ✨
 - Website: [navodit1603.github.io/NavoditPortfolio/](https://navodit1603.github.io/NavoditPortfolio/)
 - Email: [navoditmaheshwari@gmail.com](navoditmaheshwari@gmail.com)
 - Linkden: [linkedin.com/in/navodit-maheshwari/](https://www.linkedin.com/in/navodit-maheshwari/)
